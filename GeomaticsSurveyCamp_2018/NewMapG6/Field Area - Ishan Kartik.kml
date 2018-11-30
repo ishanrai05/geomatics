@@ -1,0 +1,1203 @@
+<kml xmlns="http://earth.google.com/kml/2.0"> <Document>
+<Style id="rks"><LineStyle>	<color>ff0000ff</color>	<width>3</width></LineStyle></Style>
+<Placemark><description>2018-11-24_10:12:09</description><Point> <coordinates>77.899976,29.8403</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-24_10:12:22</description><Point> <coordinates>77.90017399999999,29.840874999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-24_10:12:30</description><Point> <coordinates>77.900179,29.840889999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-24_10:13:09</description><Point> <coordinates>77.900176,29.840878</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.900176,29.840878 77.900176,29.840878</coordinates></LineString></Placemark>
+<Placemark><name> Village:Ashok Nagar, Luxaries road| F_Id:house_1 | Khasra No:1</name><description>Detail: 2018-11-24_10:14:04
+length : 18.46m</description><Point><coordinates>77.900176,29.840878</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_10:15:32</description><Point> <coordinates>77.899875,29.840709</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-24_10:16:53</description><Point> <coordinates>77.900095,29.840818</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-24_10:22:37</description><Point> <coordinates>77.90019699999999,29.840864</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90019699999999,29.840864 77.90019699999999,29.840864</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:house_1 | Khasra No:</name><description>Detail: 2018-11-24_10:22:56
+18.46m</description><Point><coordinates>77.900197,29.840864</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_10:23:02</description><Point> <coordinates>77.900314,29.840745</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.900314,29.840745 77.900314,29.840745</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:House_2 | Khasra No:</name><description>Detail: 2018-11-24_10:23:24
+16.8m</description><Point><coordinates>77.900314,29.840745</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_10:24:10</description><Point> <coordinates>77.90037099999999,29.840683</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90037099999999,29.840683 77.90037099999999,29.840683</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:house_3 | Khasra No:</name><description>Detail: 2018-11-24_10:24:41
+12.18m</description><Point><coordinates>77.900371,29.840683</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_10:25:03</description><Point> <coordinates>77.900536,29.840539999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.900536,29.840539999999997 77.900536,29.840539999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:house_4 | Khasra No:</name><description>Detail: 2018-11-24_10:25:57
+8.83m</description><Point><coordinates>77.900536,29.84054</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_10:26:22</description><Point> <coordinates>77.900639,29.840432999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.900639,29.840432999999997 77.900639,29.840432999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:house_5 | Khasra No:</name><description>Detail: 2018-11-24_10:27:04
+5m length, 4m breadth</description><Point><coordinates>77.900639,29.840433</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_10:32:29</description><Point> <coordinates>77.90082199999999,29.840197</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90082199999999,29.840197 77.90082199999999,29.840197</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:house_7 | Khasra No:</name><description>Detail: 2018-11-24_10:35:04
+39.3m</description><Point><coordinates>77.900822,29.840197</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_11:04:41</description><Point> <coordinates>77.899428,29.843798</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-24_11:05:20</description><Point> <coordinates>77.900903,29.838289</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-24_11:54:17</description><Point> <coordinates>77.899806,29.840777</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-24_11:54:26</description><Point> <coordinates>77.900013,29.84065</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-24_13:06:44</description><Point> <coordinates>77.902011,29.838784</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.902011,29.838784 77.902011,29.838784</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl_1 | Khasra No:</name><description>Detail: 2018-11-24_13:07:02
+</description><Point><coordinates>77.902011,29.838784</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_13:07:19</description><Point> <coordinates>77.902059,29.838734</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.902059,29.838734 77.902059,29.838734</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl2 | Khasra No:</name><description>Detail: 2018-11-24_13:07:26
+</description><Point><coordinates>77.902059,29.838734</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_13:07:42</description><Point> <coordinates>77.902177,29.838631999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.902177,29.838631999999997 77.902177,29.838631999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:tr_1 | Khasra No:</name><description>Detail: 2018-11-24_13:07:52
+</description><Point><coordinates>77.902177,29.838632</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_13:08:03</description><Point> <coordinates>77.902267,29.838551</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.902267,29.838551 77.902267,29.838551</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl_3 | Khasra No:</name><description>Detail: 2018-11-24_13:08:14
+</description><Point><coordinates>77.902267,29.838551</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_13:08:57</description><Point> <coordinates>77.902463,29.838303</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.902463,29.838303 77.902463,29.838303</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:tr_3 | Khasra No:</name><description>Detail: 2018-11-24_13:09:09
+</description><Point><coordinates>77.902463,29.838303</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_13:09:19</description><Point> <coordinates>77.90249899999999,29.838271</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90249899999999,29.838271 77.90249899999999,29.838271</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl5 | Khasra No:</name><description>Detail: 2018-11-24_13:09:39
+</description><Point><coordinates>77.902499,29.838271</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_13:10:59</description><Point> <coordinates>77.902557,29.838241</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.902557,29.838241 77.902557,29.838241</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:tr_4 | Khasra No:</name><description>Detail: 2018-11-24_13:11:12
+</description><Point><coordinates>77.902557,29.838241</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_13:12:20</description><Point> <coordinates>77.90269099999999,29.838106999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90269099999999,29.838106999999997 77.90269099999999,29.838106999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl6 | Khasra No:</name><description>Detail: 2018-11-24_13:12:33
+</description><Point><coordinates>77.902691,29.838107</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_13:13:42</description><Point> <coordinates>77.902999,29.837768999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.902999,29.837768999999998 77.902999,29.837768999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl7 | Khasra No:</name><description>Detail: 2018-11-24_13:13:56
+transformer</description><Point><coordinates>77.902999,29.837769</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_13:14:23</description><Point> <coordinates>77.903046,29.837684999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.903046,29.837684999999997 77.903046,29.837684999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:tr_5 | Khasra No:</name><description>Detail: 2018-11-24_13:14:44
+</description><Point><coordinates>77.903046,29.837685</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_13:16:28</description><Point> <coordinates>77.903009,29.837517</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-24_13:16:32</description><Point> <coordinates>77.903154,29.837612999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-24_13:17:20</description><Point> <coordinates>77.903099,29.837595999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.903099,29.837595999999998 77.903009,29.837517</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:tr7 | Khasra No:</name><description>Detail: 2018-11-24_13:17:27
+</description><Point><coordinates>77.903009,29.837517</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_13:18:10</description><Point> <coordinates>77.903121,29.837578999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.903121,29.837578999999998 77.903121,29.837578999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:tr8 | Khasra No:</name><description>Detail: 2018-11-24_13:18:18
+</description><Point><coordinates>77.903121,29.837579</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_13:31:03</description><Point> <coordinates>77.903333,29.837466</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.903333,29.837466 77.903333,29.837466</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl8 | Khasra No:</name><description>Detail: 2018-11-24_13:31:29
+car repair ND  wash shop</description><Point><coordinates>77.903333,29.837466</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_13:32:22</description><Point> <coordinates>77.9035,29.837314</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.9035,29.837314 77.9035,29.837314</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl9 | Khasra No:</name><description>Detail: 2018-11-24_13:32:45
+medical shop</description><Point><coordinates>77.9035,29.837314</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_13:33:41</description><Point> <coordinates>77.903646,29.837134</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.903646,29.837134 77.903646,29.837134</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl10 | Khasra No:</name><description>Detail: 2018-11-24_13:34:44
+sweet shop, bike service center,shops</description><Point><coordinates>77.903646,29.837134</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_13:35:00</description><Point> <coordinates>77.903757,29.836907999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.903757,29.836907999999998 77.903757,29.836907999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl11 | Khasra No:</name><description>Detail: 2018-11-24_13:35:21
+landfields start</description><Point><coordinates>77.903757,29.836908</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_13:36:24</description><Point> <coordinates>77.904147,29.836503999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.904147,29.836503999999998 77.904147,29.836503999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl11 | Khasra No:</name><description>Detail: 2018-11-24_13:37:03
+green farmland probably sugarcane, eucalyptus trees</description><Point><coordinates>77.904147,29.836504</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_13:38:06</description><Point> <coordinates>77.904546,29.836094</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.904546,29.836094 77.904546,29.836094</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl13 | Khasra No:</name><description>Detail: 2018-11-24_13:38:52
+waste thrown on road sides, eucalyptus trees</description><Point><coordinates>77.904546,29.836094</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_13:39:50</description><Point> <coordinates>77.904927,29.835715999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.904927,29.835715999999998 77.904927,29.835715999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl14 | Khasra No:</name><description>Detail: 2018-11-24_13:40:32
+union Bank of India, Indian oil petrol pump</description><Point><coordinates>77.904927,29.835716</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_13:41:33</description><Point> <coordinates>77.905169,29.835539999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.905169,29.835539999999998 77.905169,29.835539999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl15 | Khasra No:</name><description>Detail: 2018-11-24_13:41:47
+in front of petrol pump</description><Point><coordinates>77.905169,29.83554</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_13:42:22</description><Point> <coordinates>77.90534799999999,29.835296</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90534799999999,29.835296 77.90534799999999,29.835296</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl17 | Khasra No:</name><description>Detail: 2018-11-24_13:42:38
+nursery</description><Point><coordinates>77.905348,29.835296</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_13:44:10</description><Point> <coordinates>77.905796,29.834908</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.905796,29.834908 77.905796,29.834908</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl18 | Khasra No:</name><description>Detail: 2018-11-24_13:44:49
+in front of nursury</description><Point><coordinates>77.905796,29.834908</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_13:46:14</description><Point> <coordinates>77.906106,29.834567999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.906106,29.834567999999997 77.906106,29.834567999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl19 | Khasra No:</name><description>Detail: 2018-11-24_13:46:48
+in front of wedding hall</description><Point><coordinates>77.906106,29.834568</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_13:47:33</description><Point> <coordinates>77.90629899999999,29.834277999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90629899999999,29.834277999999998 77.90629899999999,29.834277999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl20 | Khasra No:</name><description>Detail: 2018-11-24_13:48:10
+cement shop, motor repair shop, sevice centre</description><Point><coordinates>77.906299,29.834278</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_13:48:52</description><Point> <coordinates>77.90665299999999,29.83392</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90665299999999,29.83392 77.90665299999999,29.83392</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl21 | Khasra No:</name><description>Detail: 2018-11-24_13:49:24
+plots, wasteland</description><Point><coordinates>77.906653,29.83392</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_13:50:21</description><Point> <coordinates>77.907063,29.833512</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.907063,29.833512 77.907063,29.833512</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl22 | Khasra No:</name><description>Detail: 2018-11-24_13:51:20
+shops, advertising banner, service center</description><Point><coordinates>77.907063,29.833512</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_13:52:20</description><Point> <coordinates>77.907491,29.833112999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.907491,29.833112999999997 77.907491,29.833112999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl23 | Khasra No:</name><description>Detail: 2018-11-24_13:52:39
+in front of chimney, brick kilns</description><Point><coordinates>77.907491,29.833113</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_13:53:55</description><Point> <coordinates>77.90791999999999,29.832672</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90791999999999,29.832672 77.90791999999999,29.832672</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl24 | Khasra No:</name><description>Detail: 2018-11-24_13:54:15
+agricultural land</description><Point><coordinates>77.90792,29.832672</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_13:55:14</description><Point> <coordinates>77.908275,29.832299</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.908275,29.832299 77.908275,29.832299</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl25 | Khasra No:</name><description>Detail: 2018-11-24_13:55:38
+</description><Point><coordinates>77.908275,29.832299</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_13:56:16</description><Point> <coordinates>77.90858899999999,29.831933</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90858899999999,29.831933 77.90858899999999,29.831933</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl26 | Khasra No:</name><description>Detail: 2018-11-24_13:56:54
+essar petrol pump and brick field, land plots</description><Point><coordinates>77.908589,29.831933</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_13:59:35</description><Point> <coordinates>77.90887099999999,29.831691</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90887099999999,29.831691 77.90887099999999,29.831691</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl26 | Khasra No:</name><description>Detail: 2018-11-24_14:00:04
+transformers,essar petrol pump</description><Point><coordinates>77.908871,29.831691</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_14:02:24</description><Point> <coordinates>77.90937799999999,29.831077999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90937799999999,29.831077999999998 77.90937799999999,29.831077999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl27 | Khasra No:</name><description>Detail: 2018-11-24_14:03:00
+dhaba, transformer line, sugarcane field</description><Point><coordinates>77.909378,29.831078</coordinates></Point></Placemark>
+<Placemark><description>2018-11-24_14:06:01</description><Point> <coordinates>77.910546,29.829774999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.910546,29.829774999999998 77.910546,29.829774999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr | Khasra No:</name><description>Detail: 2018-11-24_14:06:20
+agricultural land sugarcane</description><Point><coordinates>77.910546,29.829775</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_09:22:52</description><Point> <coordinates>77.91178,29.828111999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.91178,29.828111999999997 77.91178,29.828111999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr_1 | Khasra No:</name><description>Detail: 2018-11-25_09:23:38
+orchard - mango</description><Point><coordinates>77.91178,29.828112</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_09:24:10</description><Point> <coordinates>77.911566,29.828158</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.911566,29.828158 77.911566,29.828158</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:lp_1 | Khasra No:</name><description>Detail: 2018-11-25_09:24:24
+lamp post</description><Point><coordinates>77.911566,29.828158</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_09:24:35</description><Point> <coordinates>77.911132,29.828398999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.911132,29.828398999999997 77.911132,29.828398999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr2 | Khasra No:</name><description>Detail: 2018-11-25_09:25:03
+rice(probably)</description><Point><coordinates>77.911132,29.828399</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_09:25:47</description><Point> <coordinates>77.911507,29.827765999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.911507,29.827765999999997 77.911507,29.827765999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr3 | Khasra No:</name><description>Detail: 2018-11-25_09:26:23
+eucalyptus trees</description><Point><coordinates>77.911507,29.827766</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_09:26:39</description><Point> <coordinates>77.911031,29.82791</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.911031,29.82791 77.911031,29.82791</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr4 | Khasra No:</name><description>Detail: 2018-11-25_09:27:13
+sugarcane crop with trees surrounding the field</description><Point><coordinates>77.911031,29.82791</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_09:27:54</description><Point> <coordinates>77.91130799999999,29.827434999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.91130799999999,29.827434999999998 77.91130799999999,29.827434999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr5 | Khasra No:</name><description>Detail: 2018-11-25_09:28:29
+sugarcane field with irrigation </description><Point><coordinates>77.911308,29.827435</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_09:33:10</description><Point> <coordinates>77.911577,29.828173</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_09:33:29</description><Point> <coordinates>77.910748,29.827386999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.911577,29.828173 77.910748,29.827386999999998 77.911577,29.828173</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr6 | Khasra No:</name><description>Detail: 2018-11-25_09:33:58
+electric pole, sugarcane feild</description><Point><coordinates>77.911577,29.828173</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_09:34:08</description><Point> <coordinates>77.910392,29.827871</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.910392,29.827871 77.910392,29.827871</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr7 | Khasra No:</name><description>Detail: 2018-11-25_09:34:54
+BSM college field surrounded by palm trees</description><Point><coordinates>77.910392,29.827871</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_09:35:30</description><Point> <coordinates>77.908829,29.828073999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.908829,29.828073999999997 77.908829,29.828073999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:college1 | Khasra No:</name><description>Detail: 2018-11-25_09:35:52
+BSM College</description><Point><coordinates>77.908829,29.828074</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_09:36:28</description><Point> <coordinates>77.910133,29.827447</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.910133,29.827447 77.910133,29.827447</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr7 | Khasra No:</name><description>Detail: 2018-11-25_09:36:52
+harvested field</description><Point><coordinates>77.910133,29.827447</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_09:37:37</description><Point> <coordinates>77.91056999999999,29.82716</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.91056999999999,29.82716 77.91056999999999,29.82716</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl29 | Khasra No:</name><description>Detail: 2018-11-25_09:37:59
+electric pole, sucarcane field</description><Point><coordinates>77.91057,29.82716</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_09:38:58</description><Point> <coordinates>77.910319,29.82685</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.910319,29.82685 77.910319,29.82685</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:transformer 1 | Khasra No:</name><description>Detail: 2018-11-25_09:39:24
+transformer in front of electric pole on other side of the road</description><Point><coordinates>77.910319,29.82685</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_09:40:35</description><Point> <coordinates>77.909962,29.826428999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.909962,29.826428999999997 77.909962,29.826428999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl30 | Khasra No:</name><description>Detail: 2018-11-25_09:40:51
+electrical pole</description><Point><coordinates>77.909962,29.826429</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_09:43:22</description><Point> <coordinates>77.909036,29.826002</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_09:43:24</description><Point> <coordinates>77.909418,29.826345999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_09:43:27</description><Point> <coordinates>77.90956,29.826227</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_09:43:30</description><Point> <coordinates>77.909402,29.826034999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_09:43:32</description><Point> <coordinates>77.90928,29.826006</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_09:43:34</description><Point> <coordinates>77.909159,29.825905</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.909036,29.826002 77.909418,29.826345999999997 77.90956,29.826227 77.909402,29.826034999999997 77.90928,29.826006 77.909159,29.825905 77.909036,29.826002</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:cardboadfactory | Khasra No:</name><description>Detail: 2018-11-25_09:44:31
+cardboard factory beside brick kiln, belonging to same person</description><Point><coordinates>77.909036,29.826002</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_09:49:27</description><Point> <coordinates>77.908526,29.826022</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_09:49:29</description><Point> <coordinates>77.908829,29.826235999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_09:49:31</description><Point> <coordinates>77.908684,29.826541</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_09:49:42</description><Point> <coordinates>77.90902,29.826804</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_09:49:46</description><Point> <coordinates>77.908078,29.827724999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_09:49:48</description><Point> <coordinates>77.90762,29.828128</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_09:49:53</description><Point> <coordinates>77.90725499999999,29.828</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_09:49:55</description><Point> <coordinates>77.907236,29.827876999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_09:49:56</description><Point> <coordinates>77.906611,29.828246999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_09:49:59</description><Point> <coordinates>77.906179,29.827816</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_09:50:02</description><Point> <coordinates>77.906128,29.827634999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_09:50:05</description><Point> <coordinates>77.90717699999999,29.827053</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_09:50:09</description><Point> <coordinates>77.90816099999999,29.826352999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.908526,29.826022 77.908829,29.826235999999998 77.908684,29.826541 77.90902,29.826804 77.908078,29.827724999999997 77.90762,29.828128 77.90725499999999,29.828 77.907236,29.827876999999997 77.906611,29.828246999999998 77.906179,29.827816 77.906128,29.827634999999997 77.90717699999999,29.827053 77.90816099999999,29.826352999999997 77.908526,29.826022</coordinates></LineString></Placemark>
+<Placemark><name> Village:nagra imarti| F_Id:agr9 | Khasra No:</name><description>Detail: 2018-11-25_09:50:31
+sugarcane</description><Point><coordinates>77.908526,29.826022</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_10:01:48</description><Point> <coordinates>77.909532,29.825972999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:01:51</description><Point> <coordinates>77.909645,29.825898</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:02:02</description><Point> <coordinates>77.909655,29.825834999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:02:04</description><Point> <coordinates>77.909733,29.825720999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:02:06</description><Point> <coordinates>77.909635,29.82563</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:02:08</description><Point> <coordinates>77.90974899999999,29.825557</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:02:10</description><Point> <coordinates>77.909675,29.825443999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:02:12</description><Point> <coordinates>77.909472,29.825274</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:02:15</description><Point> <coordinates>77.909185,29.825003</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:02:17</description><Point> <coordinates>77.908928,29.824762999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:02:20</description><Point> <coordinates>77.908637,29.824527</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:02:24</description><Point> <coordinates>77.908363,29.824240999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:02:26</description><Point> <coordinates>77.90793599999999,29.823857999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:02:31</description><Point> <coordinates>77.907673,29.823607</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:02:39</description><Point> <coordinates>77.907172,29.824098</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:02:43</description><Point> <coordinates>77.906544,29.824441999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:02:47</description><Point> <coordinates>77.906037,29.824838</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:02:48</description><Point> <coordinates>77.90628099999999,29.825246999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:02:51</description><Point> <coordinates>77.906898,29.824847</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:02:56</description><Point> <coordinates>77.907613,29.825208</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:02:58</description><Point> <coordinates>77.908191,29.825699999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:03:01</description><Point> <coordinates>77.908519,29.825982999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:03:09</description><Point> <coordinates>77.90888,29.826203999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:03:10</description><Point> <coordinates>77.908599,29.826514999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:03:12</description><Point> <coordinates>77.908867,29.826708999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:03:18</description><Point> <coordinates>77.909309,29.826442999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:03:28</description><Point> <coordinates>77.909025,29.826141</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:03:31</description><Point> <coordinates>77.908896,29.825971</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:03:32</description><Point> <coordinates>77.90913499999999,29.825771</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:03:34</description><Point> <coordinates>77.909443,29.82592</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.909532,29.825972999999998 77.909645,29.825898 77.909655,29.825834999999998 77.909733,29.825720999999998 77.909635,29.82563 77.90974899999999,29.825557 77.909675,29.825443999999997 77.909472,29.825274 77.909185,29.825003 77.908928,29.824762999999997 77.908637,29.824527 77.908363,29.824240999999997 77.90793599999999,29.823857999999998 77.907673,29.823607 77.907172,29.824098 77.906544,29.824441999999998 77.906037,29.824838 77.90628099999999,29.825246999999997 77.906898,29.824847 77.907613,29.825208 77.908191,29.825699999999998 77.908519,29.825982999999997 77.90888,29.826203999999997 77.908599,29.826514999999997 77.908867,29.826708999999997 77.909309,29.826442999999998 77.909025,29.826141 77.908896,29.825971 77.90913499999999,29.825771 77.909443,29.82592 77.909532,29.825972999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:nagara imarti| F_Id:brick_kiln | Khasra No:</name><description>Detail: 2018-11-25_10:05:18
+naresh eent udyog, beside naresh packaging </description><Point><coordinates>77.909532,29.825973</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_10:05:49</description><Point> <coordinates>77.90965,29.826217999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:06:02</description><Point> <coordinates>77.911852,29.828335</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90965,29.826217999999997 77.911852,29.828335 77.90965,29.826217999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:nagara imarti| F_Id:road_1 | Khasra No:</name><description>Detail: 2018-11-25_10:06:57
+width: 4.6m , brick construction, pucca road</description><Point><coordinates>77.90965,29.826218</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_10:08:31</description><Point> <coordinates>77.910048,29.826725</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:08:33</description><Point> <coordinates>77.910339,29.827056</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:08:35</description><Point> <coordinates>77.909724,29.827454</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:08:37</description><Point> <coordinates>77.909442,29.827147999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.910048,29.826725 77.910339,29.827056 77.909724,29.827454 77.909442,29.827147999999998 77.910048,29.826725</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr10 | Khasra No:</name><description>Detail: 2018-11-25_10:09:11
+uncultivated land</description><Point><coordinates>77.910048,29.826725</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_10:20:22</description><Point> <coordinates>77.909928,29.826766</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:20:43</description><Point> <coordinates>77.910296,29.827057999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:20:51</description><Point> <coordinates>77.909351,29.827768</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.909928,29.826766 77.910296,29.827057999999997 77.909351,29.827768 77.909928,29.826766</coordinates></LineString></Placemark>
+<Placemark><name> Village:nagara imarti| F_Id:kacharoad | Khasra No:</name><description>Detail: 2018-11-25_10:21:34
+kacha road 2.6 width</description><Point><coordinates>77.909928,29.826766</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_10:25:39</description><Point> <coordinates>77.90914699999999,29.827607</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:25:45</description><Point> <coordinates>77.909064,29.827548999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:25:48</description><Point> <coordinates>77.90905699999999,29.827389</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:25:50</description><Point> <coordinates>77.909193,29.827277</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:25:53</description><Point> <coordinates>77.909346,29.827285</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:26:01</description><Point> <coordinates>77.909511,29.827423999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:26:03</description><Point> <coordinates>77.909469,29.827572999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:26:06</description><Point> <coordinates>77.909305,29.827623</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90914699999999,29.827607 77.909064,29.827548999999998 77.90905699999999,29.827389 77.909193,29.827277 77.909346,29.827285 77.909511,29.827423999999997 77.909469,29.827572999999997 77.909305,29.827623 77.90914699999999,29.827607</coordinates></LineString></Placemark>
+<Placemark><name> Village:nagara imarti| F_Id:const_1 | Khasra No:</name><description>Detail: 2018-11-25_10:26:47
+construction site overgrown with plants</description><Point><coordinates>77.909147,29.827607</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_10:27:39</description><Point> <coordinates>77.909474,29.827738999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:27:41</description><Point> <coordinates>77.909767,29.828044</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:27:44</description><Point> <coordinates>77.91067699999999,29.827317999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:27:46</description><Point> <coordinates>77.91036299999999,29.827063</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.909474,29.827738999999998 77.909767,29.828044 77.91067699999999,29.827317999999998 77.91036299999999,29.827063 77.909474,29.827738999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr11 | Khasra No:</name><description>Detail: 2018-11-25_10:28:25
+wheat field</description><Point><coordinates>77.909474,29.827739</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_10:31:00</description><Point> <coordinates>77.909457,29.828234</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.909457,29.828234 77.909457,29.828234</coordinates></LineString></Placemark>
+<Placemark><name> Village:nagara imarati| F_Id:celltower | Khasra No:</name><description>Detail: 2018-11-25_10:31:34
+in front of bsm college</description><Point><coordinates>77.909457,29.828234</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_10:31:42</description><Point> <coordinates>77.90863499999999,29.827275</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:31:48</description><Point> <coordinates>77.909323,29.828015999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:31:52</description><Point> <coordinates>77.90879199999999,29.828439999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:32:02</description><Point> <coordinates>77.90828599999999,29.827855</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:32:05</description><Point> <coordinates>77.908152,29.827862999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:32:07</description><Point> <coordinates>77.908003,29.827703999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90863499999999,29.827275 77.909323,29.828015999999998 77.90879199999999,29.828439999999997 77.90828599999999,29.827855 77.908152,29.827862999999997 77.908003,29.827703999999997 77.90863499999999,29.827275</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:college2 | Khasra No:</name><description>Detail: 2018-11-25_10:32:28
+BSM college</description><Point><coordinates>77.908635,29.827275</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_10:47:05</description><Point> <coordinates>77.90896099999999,29.828613999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:47:11</description><Point> <coordinates>77.908666,29.828367999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:47:14</description><Point> <coordinates>77.908363,29.828481999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:47:15</description><Point> <coordinates>77.908773,29.828882</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90896099999999,29.828613999999998 77.908666,29.828367999999998 77.908363,29.828481999999997 77.908773,29.828882 77.910319,29.82685</coordinates></LineString></Placemark>
+<Placemark><name> Village:nagara imarati| F_Id:agr13 | Khasra No:</name><description>Detail: 2018-11-25_10:48:45
+uncultivated land</description><Point><coordinates>77.910319,29.82685</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_10:50:50</description><Point> <coordinates>77.90929899999999,29.828433</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:50:54</description><Point> <coordinates>77.90965299999999,29.828782</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90929899999999,29.828433 77.90965299999999,29.828782 77.90929899999999,29.828433</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:road3 | Khasra No:</name><description>Detail: 2018-11-25_10:51:46
+3.6 m width in front of bsm college</description><Point><coordinates>77.909299,29.828433</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_10:51:58</description><Point> <coordinates>77.909674,29.828768999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:52:05</description><Point> <coordinates>77.910996,29.827617999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.909674,29.828768999999998 77.910996,29.827617999999998 77.909674,29.828768999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:road4 | Khasra No:</name><description>Detail: 2018-11-25_10:52:42
+pucca road 3.1 m width brick construction</description><Point><coordinates>77.909674,29.828769</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_10:53:50</description><Point> <coordinates>77.909319,29.828958999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:53:52</description><Point> <coordinates>77.909022,29.82866</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:54:00</description><Point> <coordinates>77.910653,29.827375999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_10:54:01</description><Point> <coordinates>77.91096999999999,29.827603999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.909319,29.828958999999998 77.909022,29.82866 77.910653,29.827375999999997 77.91096999999999,29.827603999999997 77.909319,29.828958999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:collegefield | Khasra No:</name><description>Detail: 2018-11-25_10:55:18
+bsm college ground</description><Point><coordinates>77.909319,29.828959</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_10:58:26</description><Point> <coordinates>77.909195,29.828125999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_11:00:14</description><Point> <coordinates>77.909919,29.829286</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.909195,29.828125999999997 77.909919,29.829286 77.909195,29.828125999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:transformer5 | Khasra No:</name><description>Detail: 2018-11-25_11:00:39
+tiles factor</description><Point><coordinates>77.909195,29.828126</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_11:01:57</description><Point> <coordinates>77.910162,29.829188</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_11:03:31</description><Point> <coordinates>77.91060399999999,29.829639999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.910162,29.829188 77.91060399999999,29.829639999999998 77.910162,29.829188</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:road6 | Khasra No:</name><description>Detail: 2018-11-25_11:04:40
+kacha road width 2.7 m </description><Point><coordinates>77.910162,29.829188</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_11:06:07</description><Point> <coordinates>77.90984,29.828954</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_11:06:09</description><Point> <coordinates>77.908655,29.829829</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90984,29.828954 77.908655,29.829829 77.90984,29.828954</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:road7 | Khasra No:</name><description>Detail: 2018-11-25_11:06:27
+concrete road 3 m width</description><Point><coordinates>77.90984,29.828954</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_11:06:35</description><Point> <coordinates>77.90990099999999,29.82912</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_11:06:37</description><Point> <coordinates>77.910026,29.829228999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_11:06:38</description><Point> <coordinates>77.909635,29.829607</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_11:06:40</description><Point> <coordinates>77.909458,29.829447</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90990099999999,29.82912 77.910026,29.829228999999998 77.909635,29.829607 77.909458,29.829447 77.90990099999999,29.82912</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:factory3 | Khasra No:</name><description>Detail: 2018-11-25_11:07:29
+krishna tiles factory, interlocking tiles manufacturer</description><Point><coordinates>77.909901,29.82912</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_11:10:17</description><Point> <coordinates>77.91022699999999,29.829763</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_11:10:19</description><Point> <coordinates>77.910017,29.829672</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_11:10:21</description><Point> <coordinates>77.909744,29.829884</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_11:10:22</description><Point> <coordinates>77.909555,29.830029999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_11:10:25</description><Point> <coordinates>77.90979399999999,29.830202999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.91022699999999,29.829763 77.910017,29.829672 77.909744,29.829884 77.909555,29.830029999999997 77.90979399999999,29.830202999999997 77.91022699999999,29.829763</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:construction2 | Khasra No:</name><description>Detail: 2018-11-25_11:10:43
+under construction</description><Point><coordinates>77.910227,29.829763</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_11:11:13</description><Point> <coordinates>77.90972599999999,29.829859</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_11:11:16</description><Point> <coordinates>77.909523,29.829676</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_11:11:19</description><Point> <coordinates>77.90978799999999,29.829483999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_11:11:21</description><Point> <coordinates>77.910003,29.829669</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90972599999999,29.829859 77.909523,29.829676 77.90978799999999,29.829483999999997 77.910003,29.829669 77.90972599999999,29.829859</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr15 | Khasra No:</name><description>Detail: 2018-11-25_11:11:34
+mustard field</description><Point><coordinates>77.909726,29.829859</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_11:15:35</description><Point> <coordinates>77.90932699999999,29.830195</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_11:15:38</description><Point> <coordinates>77.908486,29.829701999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_11:15:40</description><Point> <coordinates>77.909441,29.830621999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90932699999999,29.830195 77.908486,29.829701999999997 77.909441,29.830621999999998 77.90932699999999,29.830195</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:road7 | Khasra No:</name><description>Detail: 2018-11-25_11:16:33
+width 5.44m</description><Point><coordinates>77.909327,29.830195</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_11:17:24</description><Point> <coordinates>77.909713,29.830413</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_11:17:25</description><Point> <coordinates>77.909087,29.829739999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.909713,29.830413 77.909087,29.829739999999997 77.909713,29.830413</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:road8 | Khasra No:</name><description>Detail: 2018-11-25_11:19:23
+pucca road concrete road 5.4 m</description><Point><coordinates>77.909713,29.830413</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_11:19:29</description><Point> <coordinates>77.90907,29.829877999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90907,29.829877999999997 77.90907,29.829877999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:house1 | Khasra No:</name><description>Detail: 2018-11-25_11:19:59
+house</description><Point><coordinates>77.90907,29.829878</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_11:20:23</description><Point> <coordinates>77.909235,29.829876</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_11:20:24</description><Point> <coordinates>77.909335,29.829783</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_11:20:25</description><Point> <coordinates>77.90942,29.829863</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_11:20:27</description><Point> <coordinates>77.90933199999999,29.829939999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.909235,29.829876 77.909335,29.829783 77.90942,29.829863 77.90933199999999,29.829939999999997 77.909235,29.829876</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr18 | Khasra No:</name><description>Detail: 2018-11-25_11:20:57
+vegetables field</description><Point><coordinates>77.909235,29.829876</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_11:27:06</description><Point> <coordinates>77.909224,29.830166</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.909224,29.830166 77.909224,29.830166</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:plot2 | Khasra No:</name><description>Detail: 2018-11-25_11:27:29
+land plots</description><Point><coordinates>77.909224,29.830166</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_11:32:18</description><Point> <coordinates>77.908593,29.829375</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.908593,29.829375 77.908593,29.829375</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr19 | Khasra No:</name><description>Detail: 2018-11-25_11:41:15
+sugarcane field</description><Point><coordinates>77.908593,29.829375</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_13:24:39</description><Point> <coordinates>77.90921399999999,29.83018</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_13:24:46</description><Point> <coordinates>77.908682,29.829838</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90921399999999,29.83018 77.908682,29.829838 77.910319,29.82685</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl30 | Khasra No:</name><description>Detail: 2018-11-25_13:26:32
+electric pole equidistant along the road</description><Point><coordinates>77.910319,29.82685</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_13:26:56</description><Point> <coordinates>77.9091,29.830322</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.9091,29.830322 77.9091,29.830322</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl31 | Khasra No:</name><description>Detail: 2018-11-25_13:27:23
+electric poles across the road</description><Point><coordinates>77.9091,29.830322</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_13:29:14</description><Point> <coordinates>77.908926,29.830130999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.908926,29.830130999999998 77.908926,29.830130999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl32 | Khasra No:</name><description>Detail: 2018-11-25_13:29:53
+electrik poles equidistant along the road number of poles = 4 on every street</description><Point><coordinates>77.908926,29.830131</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_13:31:17</description><Point> <coordinates>77.908542,29.829656999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_13:31:18</description><Point> <coordinates>77.908666,29.829803</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_13:31:20</description><Point> <coordinates>77.908953,29.82959</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_13:31:22</description><Point> <coordinates>77.908794,29.829431999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.908542,29.829656999999997 77.908666,29.829803 77.908953,29.82959 77.908794,29.829431999999997 77.908542,29.829656999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:plot6 | Khasra No:</name><description>Detail: 2018-11-25_13:31:37
+land plots</description><Point><coordinates>77.908542,29.829657</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_13:31:53</description><Point> <coordinates>77.90866799999999,29.830081</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_13:31:55</description><Point> <coordinates>77.908765,29.830021</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_13:31:56</description><Point> <coordinates>77.909086,29.830361999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_13:32:00</description><Point> <coordinates>77.908982,29.830406</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90866799999999,29.830081 77.908765,29.830021 77.909086,29.830361999999997 77.908982,29.830406 77.90866799999999,29.830081</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:wetland1 | Khasra No:</name><description>Detail: 2018-11-25_13:32:19
+wetland filled with algae</description><Point><coordinates>77.908668,29.830081</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_13:32:47</description><Point> <coordinates>77.909238,29.830424999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.909238,29.830424999999998 77.909238,29.830424999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl34 | Khasra No:</name><description>Detail: 2018-11-25_13:32:55
+</description><Point><coordinates>77.909238,29.830425</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_13:33:21</description><Point> <coordinates>77.909373,29.830582</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.909373,29.830582 77.909373,29.830582</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl35 | Khasra No:</name><description>Detail: 2018-11-25_13:33:41
+electrik pole</description><Point><coordinates>77.909373,29.830582</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_13:34:10</description><Point> <coordinates>77.909481,29.830707</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.909481,29.830707 77.909481,29.830707</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl36 | Khasra No:</name><description>Detail: 2018-11-25_13:34:20
+</description><Point><coordinates>77.909481,29.830707</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_13:34:53</description><Point> <coordinates>77.909544,29.830845999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.909544,29.830845999999998 77.909544,29.830845999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl37 | Khasra No:</name><description>Detail: 2018-11-25_13:35:02
+</description><Point><coordinates>77.909544,29.830846</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_13:36:05</description><Point> <coordinates>77.90914599999999,29.83054</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90914599999999,29.83054 77.90914599999999,29.83054</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:plot7 | Khasra No:</name><description>Detail: 2018-11-25_13:36:19
+land plots</description><Point><coordinates>77.909146,29.83054</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_13:36:31</description><Point> <coordinates>77.90901199999999,29.830841999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_13:36:33</description><Point> <coordinates>77.909189,29.830994999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_13:36:34</description><Point> <coordinates>77.909104,29.831045999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_13:36:38</description><Point> <coordinates>77.908914,29.830918999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90901199999999,29.830841999999997 77.909189,29.830994999999998 77.909104,29.831045999999997 77.908914,29.830918999999998 77.90901199999999,29.830841999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:construction_2 | Khasra No:</name><description>Detail: 2018-11-25_13:36:58
+house under construction</description><Point><coordinates>77.909012,29.830842</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_13:39:24</description><Point> <coordinates>77.908824,29.831059</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.908824,29.831059 77.908824,29.831059</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:comm_building | Khasra No:</name><description>Detail: 2018-11-25_13:39:56
+property dealer</description><Point><coordinates>77.908824,29.831059</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_13:40:21</description><Point> <coordinates>77.908614,29.830941</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.908614,29.830941 77.908614,29.830941</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl38 | Khasra No:</name><description>Detail: 2018-11-25_13:40:45
+electrik pole</description><Point><coordinates>77.908614,29.830941</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_13:41:13</description><Point> <coordinates>77.908553,29.830911</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_13:41:16</description><Point> <coordinates>77.909021,29.831253</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.908553,29.830911 77.909021,29.831253 77.908553,29.830911</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:streetroad | Khasra No:</name><description>Detail: 2018-11-25_13:44:15
+width: 6.42m concrete road pucca road</description><Point><coordinates>77.908553,29.830911</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_13:44:40</description><Point> <coordinates>77.90840899999999,29.831097999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_13:44:51</description><Point> <coordinates>77.90914599999999,29.830401</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90840899999999,29.831097999999997 77.90914599999999,29.830401 77.90840899999999,29.831097999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:streetroad2 | Khasra No:</name><description>Detail: 2018-11-25_13:46:44
+concrete road, 6.4m width</description><Point><coordinates>77.908409,29.831098</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_13:47:05</description><Point> <coordinates>77.908639,29.830921999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.908639,29.830921999999997 77.908639,29.830921999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl39 | Khasra No:</name><description>Detail: 2018-11-25_13:48:20
+electrik poles equidistant 3 poles on horizontal and vertical load</description><Point><coordinates>77.908639,29.830922</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_13:48:50</description><Point> <coordinates>77.908537,29.83102</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.908537,29.83102 77.908537,29.83102</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl40 | Khasra No:</name><description>Detail: 2018-11-25_13:48:59
+</description><Point><coordinates>77.908537,29.83102</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_13:49:27</description><Point> <coordinates>77.908424,29.830883999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.908424,29.830883999999998 77.908424,29.830883999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl41 | Khasra No:</name><description>Detail: 2018-11-25_13:49:48
+electrik poles 4 on the raid equidistant</description><Point><coordinates>77.908424,29.830884</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_13:49:58</description><Point> <coordinates>77.908352,29.830890999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_13:49:59</description><Point> <coordinates>77.90840299999999,29.830931999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_13:50:02</description><Point> <coordinates>77.9083,29.831021</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_13:50:03</description><Point> <coordinates>77.908247,29.830985</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.908352,29.830890999999998 77.90840299999999,29.830931999999997 77.9083,29.831021 77.908247,29.830985 77.908352,29.830890999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:house2 | Khasra No:</name><description>Detail: 2018-11-25_13:50:27
+residential building</description><Point><coordinates>77.908352,29.830891</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_13:50:39</description><Point> <coordinates>77.90826799999999,29.830917999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90826799999999,29.830917999999997 77.90826799999999,29.830917999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:construction3 | Khasra No:</name><description>Detail: 2018-11-25_13:51:04
+under construction</description><Point><coordinates>77.908268,29.830918</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_13:51:16</description><Point> <coordinates>77.908242,29.830792</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.908242,29.830792 77.908242,29.830792</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl42 | Khasra No:</name><description>Detail: 2018-11-25_13:51:30
+electric pole</description><Point><coordinates>77.908242,29.830792</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_13:51:47</description><Point> <coordinates>77.908164,29.830643</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_13:51:48</description><Point> <coordinates>77.90830799999999,29.830765</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_13:51:49</description><Point> <coordinates>77.908374,29.830665</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_13:51:50</description><Point> <coordinates>77.90820099999999,29.830568999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.908164,29.830643 77.90830799999999,29.830765 77.908374,29.830665 77.90820099999999,29.830568999999997 77.908164,29.830643</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:wetland2 | Khasra No:</name><description>Detail: 2018-11-25_13:52:23
+wetland</description><Point><coordinates>77.908164,29.830643</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_13:52:28</description><Point> <coordinates>77.90808899999999,29.830754</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90808899999999,29.830754 77.90808899999999,29.830754</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:plot8 | Khasra No:</name><description>Detail: 2018-11-25_13:53:34
+land plot</description><Point><coordinates>77.908089,29.830754</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_13:53:57</description><Point> <coordinates>77.907836,29.830488</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.907836,29.830488 77.907836,29.830488</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:construction4 | Khasra No:</name><description>Detail: 2018-11-25_13:54:08
+house under construction</description><Point><coordinates>77.907836,29.830488</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_13:55:01</description><Point> <coordinates>77.907735,29.83018</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.907735,29.83018 77.907735,29.83018</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:plot9 | Khasra No:</name><description>Detail: 2018-11-25_13:55:38
+empty land plots</description><Point><coordinates>77.907735,29.83018</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_13:56:45</description><Point> <coordinates>77.907619,29.830195999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.907619,29.830195999999997 77.907619,29.830195999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl43 | Khasra No:</name><description>Detail: 2018-11-25_13:56:57
+electric pole</description><Point><coordinates>77.907619,29.830196</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_13:57:21</description><Point> <coordinates>77.90748099999999,29.830078999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90748099999999,29.830078999999998 77.90748099999999,29.830078999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl44 | Khasra No:</name><description>Detail: 2018-11-25_13:57:30
+electrik pe</description><Point><coordinates>77.907481,29.830079</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_13:58:07</description><Point> <coordinates>77.90733399999999,29.829959</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90733399999999,29.829959 77.90733399999999,29.829959</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl45 | Khasra No:</name><description>Detail: 2018-11-25_13:58:13
+</description><Point><coordinates>77.907334,29.829959</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_14:03:04</description><Point> <coordinates>77.907335,29.828415999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:03:06</description><Point> <coordinates>77.907603,29.828830999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:03:11</description><Point> <coordinates>77.907687,29.829016</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:03:13</description><Point> <coordinates>77.907292,29.829226</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:03:15</description><Point> <coordinates>77.90695199999999,29.829507999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:03:25</description><Point> <coordinates>77.906728,29.829714</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:03:31</description><Point> <coordinates>77.90664699999999,29.830023999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:03:34</description><Point> <coordinates>77.90657399999999,29.830242</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:03:38</description><Point> <coordinates>77.906348,29.830385</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:03:40</description><Point> <coordinates>77.90661999999999,29.830641999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:03:43</description><Point> <coordinates>77.907001,29.830986</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:03:55</description><Point> <coordinates>77.90741299999999,29.831362</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:03:57</description><Point> <coordinates>77.907815,29.831706999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:03:59</description><Point> <coordinates>77.908247,29.83206</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:04:04</description><Point> <coordinates>77.908017,29.832465</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:04:07</description><Point> <coordinates>77.907622,29.832736999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:04:17</description><Point> <coordinates>77.907386,29.832942</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:04:19</description><Point> <coordinates>77.90726099999999,29.833123999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:04:22</description><Point> <coordinates>77.90705899999999,29.833253</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:04:30</description><Point> <coordinates>77.90683899999999,29.833432</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:04:32</description><Point> <coordinates>77.906751,29.833544999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:04:33</description><Point> <coordinates>77.906545,29.833420999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:04:37</description><Point> <coordinates>77.906416,29.833294</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:04:40</description><Point> <coordinates>77.906337,29.833195</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:04:42</description><Point> <coordinates>77.906628,29.832924</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:04:45</description><Point> <coordinates>77.906477,29.832648</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:04:48</description><Point> <coordinates>77.906767,29.832451</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:04:51</description><Point> <coordinates>77.90723299999999,29.832117</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:04:54</description><Point> <coordinates>77.907342,29.832023</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:04:57</description><Point> <coordinates>77.90712599999999,29.831782999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:05:00</description><Point> <coordinates>77.90686699999999,29.831543</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:05:03</description><Point> <coordinates>77.90665899999999,29.831346</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:05:05</description><Point> <coordinates>77.90637199999999,29.83111</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:05:08</description><Point> <coordinates>77.906167,29.830892</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:05:10</description><Point> <coordinates>77.90599,29.830727</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:05:15</description><Point> <coordinates>77.90619099999999,29.830451</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:05:20</description><Point> <coordinates>77.90593,29.830130999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:05:22</description><Point> <coordinates>77.905772,29.829959</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:05:24</description><Point> <coordinates>77.905631,29.829738</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:05:26</description><Point> <coordinates>77.905641,29.829651</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:05:28</description><Point> <coordinates>77.905892,29.829483999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:05:31</description><Point> <coordinates>77.90612999999999,29.829297999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:05:33</description><Point> <coordinates>77.906418,29.829041999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:05:38</description><Point> <coordinates>77.90666499999999,29.828896</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:05:50</description><Point> <coordinates>77.906913,29.828747</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:05:52</description><Point> <coordinates>77.907192,29.828547999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.907335,29.828415999999997 77.907603,29.828830999999997 77.907687,29.829016 77.907292,29.829226 77.90695199999999,29.829507999999997 77.906728,29.829714 77.90664699999999,29.830023999999998 77.90657399999999,29.830242 77.906348,29.830385 77.90661999999999,29.830641999999997 77.907001,29.830986 77.90741299999999,29.831362 77.907815,29.831706999999998 77.908247,29.83206 77.908017,29.832465 77.907622,29.832736999999998 77.907386,29.832942 77.90726099999999,29.833123999999998 77.90705899999999,29.833253 77.90683899999999,29.833432 77.906751,29.833544999999997 77.906545,29.833420999999998 77.906416,29.833294 77.906337,29.833195 77.906628,29.832924 77.906477,29.832648 77.906767,29.832451 77.90723299999999,29.832117 77.907342,29.832023 77.90712599999999,29.831782999999998 77.90686699999999,29.831543 77.90665899999999,29.831346 77.90637199999999,29.83111 77.906167,29.830892 77.90599,29.830727 77.90619099999999,29.830451 77.90593,29.830130999999998 77.905772,29.829959 77.905631,29.829738 77.905641,29.829651 77.905892,29.829483999999997 77.90612999999999,29.829297999999998 77.906418,29.829041999999998 77.90666499999999,29.828896 77.906913,29.828747 77.907192,29.828547999999998 77.907335,29.828415999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:factory4 | Khasra No:</name><description>Detail: 2018-11-25_14:06:23
+brick kiln factory</description><Point><coordinates>77.907335,29.828416</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_14:14:16</description><Point> <coordinates>77.907178,29.829786</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.907178,29.829786 77.907178,29.829786</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr21 | Khasra No:</name><description>Detail: 2018-11-25_14:17:47
+mustard field</description><Point><coordinates>77.907178,29.829786</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_14:29:29</description><Point> <coordinates>77.906519,29.830206999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.906519,29.830206999999998 77.906519,29.830206999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:kacharoad | Khasra No:</name><description>Detail: 2018-11-25_14:29:57
+mud road</description><Point><coordinates>77.906519,29.830207</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_14:30:05</description><Point> <coordinates>77.906409,29.830319</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.906409,29.830319 77.906409,29.830319</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:kacharoad3 | Khasra No:</name><description>Detail: 2018-11-25_14:30:19
+width 2.8m</description><Point><coordinates>77.906409,29.830319</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_14:42:25</description><Point> <coordinates>77.906928,29.830717999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:42:26</description><Point> <coordinates>77.907518,29.830322</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:42:30</description><Point> <coordinates>77.907035,29.829846999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.906928,29.830717999999997 77.907518,29.830322 77.907035,29.829846999999997 77.906928,29.830717999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr23 | Khasra No:</name><description>Detail: 2018-11-25_14:42:39
+paddy field</description><Point><coordinates>77.906928,29.830718</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_14:43:04</description><Point> <coordinates>77.904783,29.830401</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:43:08</description><Point> <coordinates>77.905385,29.831106</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:43:10</description><Point> <coordinates>77.90601699999999,29.830717</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:43:12</description><Point> <coordinates>77.90618099999999,29.830444</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:43:14</description><Point> <coordinates>77.90556,29.829781999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.904783,29.830401 77.905385,29.831106 77.90601699999999,29.830717 77.90618099999999,29.830444 77.90556,29.829781999999998 77.904783,29.830401</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr25 | Khasra No:</name><description>Detail: 2018-11-25_14:43:30
+ploughed area</description><Point><coordinates>77.904783,29.830401</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_14:44:46</description><Point> <coordinates>77.9049,29.829182</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:44:49</description><Point> <coordinates>77.90557199999999,29.829677999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.9049,29.829182 77.90557199999999,29.829677999999998 77.9049,29.829182</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:kacharoad | Khasra No:</name><description>Detail: 2018-11-25_14:45:17
+kacha road made with soil mud width 3.5m</description><Point><coordinates>77.9049,29.829182</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_14:47:42</description><Point> <coordinates>77.90484099999999,29.829112</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:47:43</description><Point> <coordinates>77.906182,29.828073999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:47:46</description><Point> <coordinates>77.906885,29.828706999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_14:47:48</description><Point> <coordinates>77.905581,29.829631</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90484099999999,29.829112 77.906182,29.828073999999997 77.906885,29.828706999999998 77.905581,29.829631 77.90484099999999,29.829112</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr27 | Khasra No:</name><description>Detail: 2018-11-25_14:48:00
+sugarcane</description><Point><coordinates>77.904841,29.829112</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_14:58:39</description><Point> <coordinates>77.906716,29.831853</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.906716,29.831853 77.906716,29.831853</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr26 | Khasra No:</name><description>Detail: 2018-11-25_15:01:33
+unwanted bushes, trees on land plot</description><Point><coordinates>77.906716,29.831853</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_15:01:59</description><Point> <coordinates>77.905857,29.831996</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_15:02:00</description><Point> <coordinates>77.906123,29.831865999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_15:02:02</description><Point> <coordinates>77.906364,29.832131999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_15:02:05</description><Point> <coordinates>77.906091,29.832265</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.905857,29.831996 77.906123,29.831865999999998 77.906364,29.832131999999998 77.906091,29.832265 77.905857,29.831996</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:construction5  | Khasra No:</name><description>Detail: 2018-11-25_15:02:42
+house under construction helicopter on top xD</description><Point><coordinates>77.905857,29.831996</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_15:03:30</description><Point> <coordinates>77.907733,29.831183</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.907733,29.831183 77.907733,29.831183</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:house9 | Khasra No:</name><description>Detail: 2018-11-25_15:03:51
+building residential</description><Point><coordinates>77.907733,29.831183</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_15:06:21</description><Point> <coordinates>77.907787,29.831985999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.907787,29.831985999999997 77.907787,29.831985999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr47 | Khasra No:</name><description>Detail: 2018-11-25_15:06:36
+paddy field</description><Point><coordinates>77.907787,29.831986</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_15:17:50</description><Point> <coordinates>77.908451,29.831429999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.908451,29.831429999999997 77.908451,29.831429999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:petrolpump2 | Khasra No:</name><description>Detail: 2018-11-25_15:18:22
+Essar petrol pump </description><Point><coordinates>77.908451,29.83143</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_15:21:17</description><Point> <coordinates>77.90751,29.829763999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-25_15:21:21</description><Point> <coordinates>77.908686,29.830783</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90751,29.829763999999997 77.908686,29.830783 77.90751,29.829763999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:streetroad4 | Khasra No:</name><description>Detail: 2018-11-25_15:24:18
+6 m road, concrete road, 9 electric poles on the road, equidistant</description><Point><coordinates>77.90751,29.829764</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_15:36:27</description><Point> <coordinates>77.90851599999999,29.83044</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90851599999999,29.83044 77.90851599999999,29.83044</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:plot10 | Khasra No:</name><description>Detail: 2018-11-25_15:37:01
+land plots</description><Point><coordinates>77.908516,29.83044</coordinates></Point></Placemark>
+<Placemark><description>2018-11-25_15:37:09</description><Point> <coordinates>77.908474,29.830316</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.908474,29.830316 77.908474,29.830316</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:gcp1 | Khasra No:</name><description>Detail: 2018-11-25_15:37:26
+ground control point</description><Point><coordinates>77.908474,29.830316</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_10:00:30</description><Point> <coordinates>77.905912,29.834294</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.905912,29.834294 77.905912,29.834294</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:gstore1 | Khasra No:</name><description>Detail: 2018-11-26_10:00:59
+general store, the smart art of cake</description><Point><coordinates>77.905912,29.834294</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_10:01:32</description><Point> <coordinates>77.906018,29.834213</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.906018,29.834213 77.906018,29.834213</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:servicecenter | Khasra No:</name><description>Detail: 2018-11-26_10:02:17
+5 service centers, bike repair shops, side by side in the same building</description><Point><coordinates>77.906018,29.834213</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_10:03:55</description><Point> <coordinates>77.90647799999999,29.833824999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:05:07</description><Point> <coordinates>77.906682,29.833683999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:09:45</description><Point> <coordinates>77.906297,29.833385</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:09:50</description><Point> <coordinates>77.906061,29.833485</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90647799999999,29.833824999999997 77.906682,29.833683999999998 77.906297,29.833385 77.906061,29.833485 77.90647799999999,29.833824999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:madarsa | Khasra No:</name><description>Detail: 2018-11-26_10:10:44
+rasool uloom madarsa, bike repair shop, opening on roadside</description><Point><coordinates>77.906478,29.833825</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_10:11:06</description><Point> <coordinates>77.90641699999999,29.833904</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:11:10</description><Point> <coordinates>77.906002,29.833558999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90641699999999,29.833904 77.906002,29.833558999999997 77.90641699999999,29.833904</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:kacharoad12 | Khasra No:</name><description>Detail: 2018-11-26_10:11:44
+kacha road, width 2.76m</description><Point><coordinates>77.906417,29.833904</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_10:14:00</description><Point> <coordinates>77.906046,29.833503999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:14:02</description><Point> <coordinates>77.90592699999999,29.833389999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:14:04</description><Point> <coordinates>77.906114,29.833277</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:14:06</description><Point> <coordinates>77.905621,29.832879</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:14:09</description><Point> <coordinates>77.90489,29.833485</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:14:13</description><Point> <coordinates>77.905312,29.833989</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:14:25</description><Point> <coordinates>77.90569599999999,29.833755</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:14:28</description><Point> <coordinates>77.905908,29.833616</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.906046,29.833503999999998 77.90592699999999,29.833389999999998 77.906114,29.833277 77.905621,29.832879 77.90489,29.833485 77.905312,29.833989 77.90569599999999,29.833755 77.905908,29.833616 77.906046,29.833503999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:brickkiln-5 | Khasra No:</name><description>Detail: 2018-11-26_10:16:30
+brick kiln</description><Point><coordinates>77.906046,29.833504</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_10:17:25</description><Point> <coordinates>77.905047,29.833733</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:18:18</description><Point> <coordinates>77.905008,29.833665999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:18:22</description><Point> <coordinates>77.904539,29.833152</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:18:24</description><Point> <coordinates>77.903871,29.833737</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:18:26</description><Point> <coordinates>77.904349,29.834222999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:18:29</description><Point> <coordinates>77.904823,29.833921</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.905047,29.833733 77.905008,29.833665999999997 77.904539,29.833152 77.903871,29.833737 77.904349,29.834222999999998 77.904823,29.833921 77.905047,29.833733</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr48 | Khasra No:</name><description>Detail: 2018-11-26_10:23:16
+ploughed and sown with potato, peas, mustard, wheat</description><Point><coordinates>77.905047,29.833733</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_10:23:22</description><Point> <coordinates>77.90509,29.833772</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:23:23</description><Point> <coordinates>77.90527399999999,29.834037</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:23:25</description><Point> <coordinates>77.90455,29.83456</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:23:28</description><Point> <coordinates>77.904307,29.834286</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90509,29.833772 77.90527399999999,29.834037 77.90455,29.83456 77.904307,29.834286 77.90509,29.833772</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:emptylandplot | Khasra No:</name><description>Detail: 2018-11-26_10:23:57
+over grown with unwanted plants</description><Point><coordinates>77.90509,29.833772</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_10:28:29</description><Point> <coordinates>77.90382699999999,29.832565</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:28:34</description><Point> <coordinates>77.90404199999999,29.832290999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:28:36</description><Point> <coordinates>77.903823,29.832144999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:28:38</description><Point> <coordinates>77.903638,29.832431</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90382699999999,29.832565 77.90404199999999,29.832290999999998 77.903823,29.832144999999997 77.903638,29.832431 77.90382699999999,29.832565</coordinates></LineString></Placemark>
+<Placemark><name> Village:dhandera| F_Id:factory6 | Khasra No:</name><description>Detail: 2018-11-26_10:31:06
+MAPAT-DISPOPAT plastic  wholesale factory, MK Can molding factory</description><Point><coordinates>77.903827,29.832565</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_10:33:06</description><Point> <coordinates>77.904546,29.831711</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:33:08</description><Point> <coordinates>77.903449,29.830506</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:33:11</description><Point> <coordinates>77.902558,29.831187999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:33:14</description><Point> <coordinates>77.90341099999999,29.832248999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:33:16</description><Point> <coordinates>77.903634,29.832476999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:33:17</description><Point> <coordinates>77.90386199999999,29.83213</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.904546,29.831711 77.903449,29.830506 77.902558,29.831187999999997 77.90341099999999,29.832248999999997 77.903634,29.832476999999997 77.90386199999999,29.83213 77.904546,29.831711</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:brickfield-1 | Khasra No:</name><description>Detail: 2018-11-26_10:36:01
+Uttaranchal brick field</description><Point><coordinates>77.904546,29.831711</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_10:37:19</description><Point> <coordinates>77.904878,29.833344999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:37:21</description><Point> <coordinates>77.905632,29.832781999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:37:23</description><Point> <coordinates>77.904653,29.831764999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:37:33</description><Point> <coordinates>77.903913,29.832556</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:37:37</description><Point> <coordinates>77.90478999999999,29.833399999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:37:39</description><Point> <coordinates>77.905648,29.832743999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:37:48</description><Point> <coordinates>77.905434,29.8326</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:37:50</description><Point> <coordinates>77.90599999999999,29.832223</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:37:52</description><Point> <coordinates>77.90523999999999,29.831339</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:37:54</description><Point> <coordinates>77.904688,29.831757999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:37:59</description><Point> <coordinates>77.90395,29.832590999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:38:03</description><Point> <coordinates>77.90480099999999,29.833444999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.904878,29.833344999999998 77.905632,29.832781999999998 77.904653,29.831764999999997 77.903913,29.832556 77.90478999999999,29.833399999999997 77.905648,29.832743999999998 77.905434,29.8326 77.90599999999999,29.832223 77.90523999999999,29.831339 77.904688,29.831757999999997 77.90395,29.832590999999997 77.90480099999999,29.833444999999998 77.904878,29.833344999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:brickfieled | Khasra No:</name><description>Detail: 2018-11-26_10:38:24
+Rao brick field</description><Point><coordinates>77.904878,29.833345</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_10:40:27</description><Point> <coordinates>77.90386199999999,29.832576999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90386199999999,29.832576999999997 77.90386199999999,29.832576999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:transformer10 | Khasra No:</name><description>Detail: 2018-11-26_10:40:55
+2 transformers 100kV</description><Point><coordinates>77.903862,29.832577</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_10:41:52</description><Point> <coordinates>77.903663,29.832933999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.903663,29.832933999999998 77.903663,29.832933999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:transformer11 | Khasra No:</name><description>Detail: 2018-11-26_10:42:07
+25kv transformer</description><Point><coordinates>77.903663,29.832934</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_10:43:31</description><Point> <coordinates>77.903292,29.833219</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:43:33</description><Point> <coordinates>77.90352,29.833427</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:43:34</description><Point> <coordinates>77.903784,29.833257</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:43:36</description><Point> <coordinates>77.903539,29.832993</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.903292,29.833219 77.90352,29.833427 77.903784,29.833257 77.903539,29.832993 77.903292,29.833219</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:gasagency | Khasra No:</name><description>Detail: 2018-11-26_10:44:17
+prabhat indane gas agency </description><Point><coordinates>77.903292,29.833219</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_10:44:53</description><Point> <coordinates>77.90262299999999,29.833619</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:44:55</description><Point> <coordinates>77.903838,29.832656999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:44:58</description><Point> <coordinates>77.903537,29.832376999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:45:02</description><Point> <coordinates>77.903155,29.831975</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:45:04</description><Point> <coordinates>77.90272499999999,29.83157</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:45:07</description><Point> <coordinates>77.902439,29.831191999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:45:29</description><Point> <coordinates>77.902549,29.831066999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:45:31</description><Point> <coordinates>77.902757,29.830896</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:45:32</description><Point> <coordinates>77.90288,29.830762999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:45:33</description><Point> <coordinates>77.90266799999999,29.830548</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:45:37</description><Point> <coordinates>77.90259999999999,29.830485</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:45:38</description><Point> <coordinates>77.903092,29.830123</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:45:42</description><Point> <coordinates>77.90268999999999,29.829756999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:45:46</description><Point> <coordinates>77.902472,29.829573</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:45:47</description><Point> <coordinates>77.90222399999999,29.829397999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:45:49</description><Point> <coordinates>77.902035,29.829687999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:45:52</description><Point> <coordinates>77.901881,29.830047999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:45:53</description><Point> <coordinates>77.901716,29.830391</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:45:55</description><Point> <coordinates>77.901658,29.830561999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:45:57</description><Point> <coordinates>77.901574,29.830634999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:46:05</description><Point> <coordinates>77.90149699999999,29.830811999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:46:06</description><Point> <coordinates>77.901361,29.831104</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:46:08</description><Point> <coordinates>77.90127199999999,29.831265</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:46:19</description><Point> <coordinates>77.901145,29.831363</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:46:21</description><Point> <coordinates>77.900922,29.831459</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:46:22</description><Point> <coordinates>77.90075,29.83155</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:46:25</description><Point> <coordinates>77.90115,29.832024999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:46:26</description><Point> <coordinates>77.90149699999999,29.831775</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:46:28</description><Point> <coordinates>77.90167,29.831652</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:46:30</description><Point> <coordinates>77.901864,29.831849</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:46:32</description><Point> <coordinates>77.902014,29.83205</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:46:33</description><Point> <coordinates>77.90207099999999,29.832124999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:46:35</description><Point> <coordinates>77.90156,29.832504</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:46:38</description><Point> <coordinates>77.90177899999999,29.832759</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:46:41</description><Point> <coordinates>77.90213,29.83314</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:46:47</description><Point> <coordinates>77.902703,29.832822999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:46:51</description><Point> <coordinates>77.902817,29.8328</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:46:53</description><Point> <coordinates>77.902985,29.832925999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:46:55</description><Point> <coordinates>77.90319,29.833171</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90262299999999,29.833619 77.903838,29.832656999999998 77.903537,29.832376999999997 77.903155,29.831975 77.90272499999999,29.83157 77.902439,29.831191999999998 77.902549,29.831066999999997 77.902757,29.830896 77.90288,29.830762999999997 77.90266799999999,29.830548 77.90259999999999,29.830485 77.903092,29.830123 77.90268999999999,29.829756999999997 77.902472,29.829573 77.90222399999999,29.829397999999998 77.902035,29.829687999999997 77.901881,29.830047999999998 77.901716,29.830391 77.901658,29.830561999999997 77.901574,29.830634999999997 77.90149699999999,29.830811999999998 77.901361,29.831104 77.90127199999999,29.831265 77.901145,29.831363 77.900922,29.831459 77.90075,29.83155 77.90115,29.832024999999998 77.90149699999999,29.831775 77.90167,29.831652 77.901864,29.831849 77.902014,29.83205 77.90207099999999,29.832124999999998 77.90156,29.832504 77.90177899999999,29.832759 77.90213,29.83314 77.902703,29.832822999999998 77.902817,29.8328 77.902985,29.832925999999997 77.90319,29.833171 77.90262299999999,29.833619</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id: | Khasra No:brickfield10</name><description>Detail: 2018-11-26_10:47:12
+bharat brick field</description><Point><coordinates>77.902623,29.833619</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_10:48:47</description><Point> <coordinates>77.901367,29.833266</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:48:49</description><Point> <coordinates>77.901003,29.832935</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:48:50</description><Point> <coordinates>77.900772,29.832554</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:48:53</description><Point> <coordinates>77.900431,29.832162999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:48:55</description><Point> <coordinates>77.900324,29.831992999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:48:57</description><Point> <coordinates>77.900699,29.831839</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:49:04</description><Point> <coordinates>77.90079999999999,29.831785</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:49:07</description><Point> <coordinates>77.90129999999999,29.832333</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:49:10</description><Point> <coordinates>77.901654,29.832718999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:49:12</description><Point> <coordinates>77.90179499999999,29.832939</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:49:13</description><Point> <coordinates>77.901594,29.833115</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.901367,29.833266 77.901003,29.832935 77.900772,29.832554 77.900431,29.832162999999998 77.900324,29.831992999999997 77.900699,29.831839 77.90079999999999,29.831785 77.90129999999999,29.832333 77.901654,29.832718999999997 77.90179499999999,29.832939 77.901594,29.833115 77.901367,29.833266</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:brickfield12 | Khasra No:</name><description>Detail: 2018-11-26_10:49:30
+Rao brick field</description><Point><coordinates>77.901367,29.833266</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_10:55:25</description><Point> <coordinates>77.902529,29.833598</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:55:26</description><Point> <coordinates>77.902228,29.833230999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:55:28</description><Point> <coordinates>77.90277999999999,29.832842</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:55:31</description><Point> <coordinates>77.903138,29.833147</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.902529,29.833598 77.902228,29.833230999999998 77.90277999999999,29.832842 77.903138,29.833147 77.902529,29.833598</coordinates></LineString></Placemark>
+<Placemark><name> Village:dhandera| F_Id:agr48 | Khasra No:</name><description>Detail: 2018-11-26_10:57:36
+sugarcane field</description><Point><coordinates>77.902529,29.833598</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_10:58:18</description><Point> <coordinates>77.90251099999999,29.833616</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_10:58:32</description><Point> <coordinates>77.89913299999999,29.829680999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90251099999999,29.833616 77.89913299999999,29.829680999999997 77.90251099999999,29.833616</coordinates></LineString></Placemark>
+<Placemark><name> Village:dhandera| F_Id:kacharoad9 | Khasra No:</name><description>Detail: 2018-11-26_10:59:42
+kacha road</description><Point><coordinates>77.902511,29.833616</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_11:02:46</description><Point> <coordinates>77.90144699999999,29.832493</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90144699999999,29.832493 77.90144699999999,29.832493</coordinates></LineString></Placemark>
+<Placemark><name> Village:dhandera| F_Id:pl50 | Khasra No:</name><description>Detail: 2018-11-26_11:07:37
+electrical pole carrying wires across the field</description><Point><coordinates>77.901447,29.832493</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_11:08:54</description><Point> <coordinates>77.90066,29.831574</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90066,29.831574 77.90066,29.831574</coordinates></LineString></Placemark>
+<Placemark><name> Village:dhandera| F_Id:transformer20 | Khasra No:</name><description>Detail: 2018-11-26_11:09:51
+small transformer</description><Point><coordinates>77.90066,29.831574</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_11:14:43</description><Point> <coordinates>77.90039,29.831519</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_11:15:38</description><Point> <coordinates>77.900042,29.831256</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90039,29.831519 77.900042,29.831256 77.90039,29.831519</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr48 | Khasra No:</name><description>Detail: 2018-11-26_11:16:40
+barsi crop for animals</description><Point><coordinates>77.90039,29.831519</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_11:17:23</description><Point> <coordinates>77.89981999999999,29.831433999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.89981999999999,29.831433999999998 77.89981999999999,29.831433999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr49 | Khasra No:</name><description>Detail: 2018-11-26_11:17:43
+wheat to be sown</description><Point><coordinates>77.89982,29.831434</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_11:18:11</description><Point> <coordinates>77.900108,29.831872999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.900108,29.831872999999998 77.900108,29.831872999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:irrigation | Khasra No:</name><description>Detail: 2018-11-26_11:18:44
+furrow irrigation along the entire road</description><Point><coordinates>77.900108,29.831873</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_11:20:53</description><Point> <coordinates>77.899851,29.832359999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.899851,29.832359999999998 77.899851,29.832359999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:dhandera| F_Id:pl54 | Khasra No:</name><description>Detail: 2018-11-26_11:21:25
+middle of farm</description><Point><coordinates>77.899851,29.83236</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_11:22:36</description><Point> <coordinates>77.898786,29.832089</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.898786,29.832089 77.898786,29.832089</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr51 | Khasra No:</name><description>Detail: 2018-11-26_11:22:53
+basri</description><Point><coordinates>77.898786,29.832089</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_11:23:38</description><Point> <coordinates>77.89888599999999,29.832618</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_11:26:32</description><Point> <coordinates>77.89856999999999,29.832599</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.89888599999999,29.832618 77.89856999999999,29.832599 77.89888599999999,29.832618</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr56 | Khasra No:</name><description>Detail: 2018-11-26_11:27:21
+field down, surrounded by sugercane fields.</description><Point><coordinates>77.898886,29.832618</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_11:33:04</description><Point> <coordinates>77.897488,29.832742999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.897488,29.832742999999997 77.897488,29.832742999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:house no. 123 | Khasra No:</name><description>Detail: 2018-11-26_11:34:22
+house with empty plots on it's left and right</description><Point><coordinates>77.897488,29.832743</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_11:34:52</description><Point> <coordinates>77.897303,29.832667999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.897303,29.832667999999998 77.897303,29.832667999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:small warehouse 1 | Khasra No:</name><description>Detail: 2018-11-26_11:35:43
+next to a pole</description><Point><coordinates>77.897303,29.832668</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_11:36:35</description><Point> <coordinates>77.897195,29.832687</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.897195,29.832687 77.897195,29.832687</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:transformer 33 | Khasra No:</name><description>Detail: 2018-11-26_11:37:16
+middle of an empty plot</description><Point><coordinates>77.897195,29.832687</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_11:47:44</description><Point> <coordinates>77.900042,29.831439999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.900042,29.831439999999997 77.900042,29.831439999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:tubewell | Khasra No:</name><description>Detail: 2018-11-26_11:48:09
+tubewell in middle of field</description><Point><coordinates>77.900042,29.83144</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_11:48:13</description><Point> <coordinates>77.900437,29.830979</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_11:56:58</description><Point> <coordinates>77.90377699999999,29.833501</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_11:57:03</description><Point> <coordinates>77.903464,29.833472999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.900437,29.830979 77.90377699999999,29.833501 77.903464,29.833472999999998 77.900437,29.830979</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl59 | Khasra No:</name><description>Detail: 2018-11-26_11:57:28
+electric pole</description><Point><coordinates>77.900437,29.830979</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_11:57:41</description><Point> <coordinates>77.90095699999999,29.832006999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_11:59:29</description><Point> <coordinates>77.902889,29.833523999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_11:59:31</description><Point> <coordinates>77.903419,29.834186</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_11:59:33</description><Point> <coordinates>77.903555,29.834193</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_11:59:35</description><Point> <coordinates>77.903661,29.834322999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_11:59:36</description><Point> <coordinates>77.90404199999999,29.834065</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_11:59:39</description><Point> <coordinates>77.90324799999999,29.83326</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90095699999999,29.832006999999997 77.902889,29.833523999999997 77.903419,29.834186 77.903555,29.834193 77.903661,29.834322999999998 77.90404199999999,29.834065 77.90324799999999,29.83326 77.90095699999999,29.832006999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:school | Khasra No:</name><description>Detail: 2018-11-26_12:00:46
+Iqra international school</description><Point><coordinates>77.900957,29.832007</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_12:01:10</description><Point> <coordinates>77.903999,29.834408</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.903999,29.834408 77.903999,29.834408</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr60 | Khasra No:</name><description>Detail: 2018-11-26_12:01:25
+mustard field</description><Point><coordinates>77.903999,29.834408</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_12:01:36</description><Point> <coordinates>77.904078,29.834111999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.904078,29.834111999999998 77.904078,29.834111999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl60 | Khasra No:</name><description>Detail: 2018-11-26_12:01:48
+electric pole</description><Point><coordinates>77.904078,29.834112</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_12:02:22</description><Point> <coordinates>77.904392,29.834477</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.904392,29.834477 77.904392,29.834477</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl61 | Khasra No:</name><description>Detail: 2018-11-26_12:03:26
+electric pole in front of a newly constructed commercial building</description><Point><coordinates>77.904392,29.834477</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_12:04:23</description><Point> <coordinates>77.90469499999999,29.834804</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90469499999999,29.834804 77.90469499999999,29.834804</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl63 | Khasra No:</name><description>Detail: 2018-11-26_12:04:32
+electric pole</description><Point><coordinates>77.904695,29.834804</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_12:04:35</description><Point> <coordinates>77.904747,29.834699999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.904747,29.834699999999998 77.904747,29.834699999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:tenthouse | Khasra No:</name><description>Detail: 2018-11-26_12:04:53
+commercial building mittal tent house</description><Point><coordinates>77.904747,29.8347</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_12:05:26</description><Point> <coordinates>77.904911,29.835048999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.904911,29.835048999999998 77.904911,29.835048999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl65 | Khasra No:</name><description>Detail: 2018-11-26_12:05:45
+electric pole in front of new construction</description><Point><coordinates>77.904911,29.835049</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_14:15:29</description><Point> <coordinates>77.905008,29.835027999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.905008,29.835027999999998 77.905008,29.835027999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:construction101 | Khasra No:</name><description>Detail: 2018-11-26_14:15:59
+under construction houses</description><Point><coordinates>77.905008,29.835028</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_14:16:16</description><Point> <coordinates>77.90487399999999,29.835223</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90487399999999,29.835223 77.90487399999999,29.835223</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr101 | Khasra No:</name><description>Detail: 2018-11-26_14:16:31
+wheat sown</description><Point><coordinates>77.904874,29.835223</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_14:18:03</description><Point> <coordinates>77.904404,29.834705</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.904404,29.834705 77.904404,29.834705</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:road101 | Khasra No:</name><description>Detail: 2018-11-26_14:19:10
+pucca road concrete 4.6m width</description><Point><coordinates>77.904404,29.834705</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_14:20:29</description><Point> <coordinates>77.90413699999999,29.834888</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90413699999999,29.834888 77.90413699999999,29.834888</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl101 | Khasra No:</name><description>Detail: 2018-11-26_14:20:54
+3 electric poles on the road</description><Point><coordinates>77.904137,29.834888</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_14:22:07</description><Point> <coordinates>77.904161,29.835089999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.904161,29.835089999999997 77.904161,29.835089999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:plot101 | Khasra No:</name><description>Detail: 2018-11-26_14:22:18
+land plot</description><Point><coordinates>77.904161,29.83509</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_14:23:19</description><Point> <coordinates>77.904425,29.835171</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.904425,29.835171 77.904425,29.835171</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:plot102 | Khasra No:</name><description>Detail: 2018-11-26_14:23:28
+land plot</description><Point><coordinates>77.904425,29.835171</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_14:24:59</description><Point> <coordinates>77.903835,29.834407</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.903835,29.834407 77.903835,29.834407</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr103 | Khasra No:</name><description>Detail: 2018-11-26_14:25:18
+mustard field</description><Point><coordinates>77.903835,29.834407</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_14:25:54</description><Point> <coordinates>77.90359099999999,29.834816999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90359099999999,29.834816999999997 77.90359099999999,29.834816999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr105 | Khasra No:</name><description>Detail: 2018-11-26_14:26:06
+sugarcane</description><Point><coordinates>77.903591,29.834817</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_14:34:01</description><Point> <coordinates>77.90292,29.834038</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90292,29.834038 77.90292,29.834038</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr106 | Khasra No:</name><description>Detail: 2018-11-26_14:34:14
+wheat sown</description><Point><coordinates>77.90292,29.834038</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_14:34:17</description><Point> <coordinates>77.902159,29.833605</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.902159,29.833605 77.902159,29.833605</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:agr107 | Khasra No:</name><description>Detail: 2018-11-26_14:34:29
+sugar cane</description><Point><coordinates>77.902159,29.833605</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_14:36:28</description><Point> <coordinates>77.902069,29.834048</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.902069,29.834048 77.902069,29.834048</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:road108 | Khasra No:</name><description>Detail: 2018-11-26_14:37:26
+brick road 2.5m width</description><Point><coordinates>77.902069,29.834048</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_14:38:19</description><Point> <coordinates>77.901437,29.834159</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.901437,29.834159 77.901437,29.834159</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:road109 | Khasra No:</name><description>Detail: 2018-11-26_14:40:07
+concrete road 3m road</description><Point><coordinates>77.901437,29.834159</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_14:40:11</description><Point> <coordinates>77.90115399999999,29.834170999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90115399999999,29.834170999999998 77.90115399999999,29.834170999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:wetland4 | Khasra No:</name><description>Detail: 2018-11-26_14:40:55
+5 transformers on each side , equidistant</description><Point><coordinates>77.901154,29.834171</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_15:03:59</description><Point> <coordinates>77.900234,29.833896</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_15:04:01</description><Point> <coordinates>77.899631,29.834287</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_15:04:02</description><Point> <coordinates>77.899873,29.834501</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_15:04:07</description><Point> <coordinates>77.900033,29.834294999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_15:04:09</description><Point> <coordinates>77.90061399999999,29.834432</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_15:04:11</description><Point> <coordinates>77.900761,29.834283</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.900234,29.833896 77.899631,29.834287 77.899873,29.834501 77.900033,29.834294999999997 77.90061399999999,29.834432 77.900761,29.834283 77.900234,29.833896</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:garden1 | Khasra No:</name><description>Detail: 2018-11-26_15:04:29
+orchard</description><Point><coordinates>77.900234,29.833896</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_15:05:06</description><Point> <coordinates>77.899647,29.833668</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.899647,29.833668 77.899647,29.833668</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:road110 | Khasra No:</name><description>Detail: 2018-11-26_15:06:05
+brick road over layed with soil width 3.5m</description><Point><coordinates>77.899647,29.833668</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_15:06:10</description><Point> <coordinates>77.89893599999999,29.833895</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.89893599999999,29.833895 77.89893599999999,29.833895</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:plot110 | Khasra No:</name><description>Detail: 2018-11-26_15:06:22
+land plots</description><Point><coordinates>77.898936,29.833895</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_15:08:35</description><Point> <coordinates>77.898456,29.833699</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.898456,29.833699 77.898456,29.833699</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:plot113 | Khasra No:</name><description>Detail: 2018-11-26_15:09:11
+land plot </description><Point><coordinates>77.898456,29.833699</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_15:14:50</description><Point> <coordinates>77.897965,29.833505</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_15:14:52</description><Point> <coordinates>77.898496,29.834042999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_15:14:54</description><Point> <coordinates>77.899125,29.833634999999997</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-26_15:14:56</description><Point> <coordinates>77.897992,29.833432</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.897965,29.833505 77.898496,29.834042999999998 77.899125,29.833634999999997 77.897992,29.833432 77.897965,29.833505</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:constructionplot | Khasra No:</name><description>Detail: 2018-11-26_15:15:31
+owned by swastic properties, new construction of colony</description><Point><coordinates>77.897965,29.833505</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_15:16:13</description><Point> <coordinates>77.89792899999999,29.833433</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.89792899999999,29.833433 77.89792899999999,29.833433</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:hospital | Khasra No:</name><description>Detail: 2018-11-26_15:16:36
+animal hospital still under construction</description><Point><coordinates>77.897929,29.833433</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_15:20:22</description><Point> <coordinates>77.897198,29.833275999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.897198,29.833275999999998 77.897198,29.833275999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:govtplot | Khasra No:</name><description>Detail: 2018-11-26_15:21:04
+government owned plot with a tubewell</description><Point><coordinates>77.897198,29.833276</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_15:39:57</description><Point> <coordinates>77.897205,29.833104</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.897205,29.833104 77.897205,29.833104</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl114 | Khasra No:</name><description>Detail: 2018-11-26_15:40:41
+electric pole</description><Point><coordinates>77.897205,29.833104</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_15:42:42</description><Point> <coordinates>77.89717399999999,29.832746</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.89717399999999,29.832746 77.89717399999999,29.832746</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pl115 | Khasra No:</name><description>Detail: 2018-11-26_15:42:53
+electric pole</description><Point><coordinates>77.897174,29.832746</coordinates></Point></Placemark>
+<Placemark><description>2018-11-26_15:43:18</description><Point> <coordinates>77.897108,29.833308</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.897108,29.833308 77.897108,29.833308</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:transfo116 | Khasra No:</name><description>Detail: 2018-11-26_15:43:36
+</description><Point><coordinates>77.897108,29.833308</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_09:19:49</description><Point> <coordinates>77.904687,29.835572</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.904687,29.835572 77.904687,29.835572</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:shop200 | Khasra No:</name><description>Detail: 2018-11-27_09:20:21
+family Mart general store</description><Point><coordinates>77.904687,29.835572</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_09:20:27</description><Point> <coordinates>77.904664,29.835637</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.904664,29.835637 77.904664,29.835637</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:shop201 | Khasra No:</name><description>Detail: 2018-11-27_09:20:45
+uttarakhand properties</description><Point><coordinates>77.904664,29.835637</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_09:21:33</description><Point> <coordinates>77.90450799999999,29.835791</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90450799999999,29.835791 77.90450799999999,29.835791</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:shop203 | Khasra No:</name><description>Detail: 2018-11-27_09:22:23
+fashion shaan steel furniture commercial shop</description><Point><coordinates>77.904508,29.835791</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_09:22:59</description><Point> <coordinates>77.904465,29.835842</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.904465,29.835842 77.904465,29.835842</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:construction200 | Khasra No:</name><description>Detail: 2018-11-27_09:23:26
+building under construction </description><Point><coordinates>77.904465,29.835842</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_09:31:37</description><Point> <coordinates>77.903855,29.835798999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.903855,29.835798999999998 77.910319,29.82685</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:plot201 | Khasra No:</name><description>Detail: 2018-11-27_09:32:20
+emptylandplot</description><Point><coordinates>77.910319,29.82685</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_09:32:28</description><Point> <coordinates>77.91418,29.830555</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-27_09:37:33</description><Point> <coordinates>77.904546,29.836005</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-27_09:37:47</description><Point> <coordinates>77.90428399999999,29.835839</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.91418,29.830555 77.904546,29.836005 77.90428399999999,29.835839 77.91418,29.830555</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:road_301 | Khasra No:</name><description>Detail: 2018-11-27_09:39:42
+concrete road. 5.20 mteres width, 4 electric poles equidistant</description><Point><coordinates>77.91418,29.830555</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_09:40:58</description><Point> <coordinates>77.903938,29.835434</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.903938,29.835434 77.903938,29.835434</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:house_205 | Khasra No:</name><description>Detail: 2018-11-27_09:41:33
+under construction, with empty plots on its sides</description><Point><coordinates>77.903938,29.835434</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_09:41:38</description><Point> <coordinates>77.903756,29.835559</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.903756,29.835559 77.903756,29.835559</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:house_206 | Khasra No:</name><description>Detail: 2018-11-27_09:42:08
+under construction, empty plots next to it</description><Point><coordinates>77.903756,29.835559</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_09:43:14</description><Point> <coordinates>77.903669,29.835441</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.903669,29.835441 77.903669,29.835441</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:tubewell_101 | Khasra No:</name><description>Detail: 2018-11-27_09:44:01
+pump for agriculture, mustard field</description><Point><coordinates>77.903669,29.835441</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_09:45:00</description><Point> <coordinates>77.90380499999999,29.835113</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90380499999999,29.835113 77.90380499999999,29.835113</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:field sown  | Khasra No:</name><description>Detail: 2018-11-27_09:46:08
+field sown with wheat</description><Point><coordinates>77.903805,29.835113</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_09:47:15</description><Point> <coordinates>77.903559,29.834844</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.903559,29.834844 77.903559,29.834844</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:field_301 | Khasra No:</name><description>Detail: 2018-11-27_09:47:54
+sugercane field</description><Point><coordinates>77.903559,29.834844</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_09:50:28</description><Point> <coordinates>77.90289899999999,29.83411</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90289899999999,29.83411 77.90289899999999,29.83411</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:field_302 | Khasra No:</name><description>Detail: 2018-11-27_09:51:06
+mustard field, behind Iqra school</description><Point><coordinates>77.902899,29.83411</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_09:51:24</description><Point> <coordinates>77.902464,29.834484</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.902464,29.834484 77.902464,29.834484</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:field_213 | Khasra No:</name><description>Detail: 2018-11-27_09:51:50
+mustard field</description><Point><coordinates>77.902464,29.834484</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_10:01:06</description><Point> <coordinates>77.901219,29.834636999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.901219,29.834636999999997 77.901219,29.834636999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:transformer_202 | Khasra No:</name><description>Detail: 2018-11-27_10:01:51
+</description><Point><coordinates>77.901219,29.834637</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_10:02:20</description><Point> <coordinates>77.90142999999999,29.834798</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90142999999999,29.834798 77.90142999999999,29.834798</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:road_240 | Khasra No:</name><description>Detail: 2018-11-27_10:02:46
+road in very poor condition</description><Point><coordinates>77.90143,29.834798</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_10:04:05</description><Point> <coordinates>77.901209,29.834858999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.901209,29.834858999999998 77.901209,29.834858999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:transformer_241 | Khasra No:</name><description>Detail: 2018-11-27_10:04:37
+</description><Point><coordinates>77.901209,29.834859</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_10:06:03</description><Point> <coordinates>77.901003,29.834951</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.901003,29.834951 77.901003,29.834951</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pole_250 | Khasra No:</name><description>Detail: 2018-11-27_10:06:48
+next to a small building and a large empty ground</description><Point><coordinates>77.901003,29.834951</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_10:06:58</description><Point> <coordinates>77.90110899999999,29.834798</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90110899999999,29.834798 77.90110899999999,29.834798</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pole_260 | Khasra No:</name><description>Detail: 2018-11-27_10:07:16
+</description><Point><coordinates>77.901109,29.834798</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_10:07:43</description><Point> <coordinates>77.90051199999999,29.835061</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90051199999999,29.835061 77.90051199999999,29.835061</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:field_305 | Khasra No:</name><description>Detail: 2018-11-27_10:07:58
+empty ground</description><Point><coordinates>77.900512,29.835061</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_10:10:06</description><Point> <coordinates>77.900868,29.835324</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.900868,29.835324 77.900868,29.835324</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:house_500 | Khasra No:</name><description>Detail: 2018-11-27_10:10:38
+has shed </description><Point><coordinates>77.900868,29.835324</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_10:11:27</description><Point> <coordinates>77.900466,29.835576999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.900466,29.835576999999997 77.900466,29.835576999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:transformer_300 | Khasra No:</name><description>Detail: 2018-11-27_10:11:53
+next to a mosque</description><Point><coordinates>77.900466,29.835577</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_10:12:51</description><Point> <coordinates>77.90022499999999,29.835732999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90022499999999,29.835732999999998 77.90022499999999,29.835732999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:madarsa_101 | Khasra No:</name><description>Detail: 2018-11-27_10:13:36
+madrasa islamia arabia noorul- uloom</description><Point><coordinates>77.900225,29.835733</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_10:20:58</description><Point> <coordinates>77.902396,29.835462</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.902396,29.835462 77.902396,29.835462</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:house_560 | Khasra No:</name><description>Detail: 2018-11-27_10:21:23
+under construction</description><Point><coordinates>77.902396,29.835462</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_10:21:55</description><Point> <coordinates>77.902476,29.835531999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.902476,29.835531999999997 77.902476,29.835531999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:buidling_701 | Khasra No:</name><description>Detail: 2018-11-27_10:22:51
+ward 15, building material storage</description><Point><coordinates>77.902476,29.835532</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_10:23:18</description><Point> <coordinates>77.902456,29.835621</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.902456,29.835621 77.902456,29.835621</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:pole_650 | Khasra No:</name><description>Detail: 2018-11-27_10:24:03
+the plot is empty with grass all over </description><Point><coordinates>77.902456,29.835621</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_10:24:42</description><Point> <coordinates>77.9022,29.836281</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.9022,29.836281 77.9022,29.836281</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:plot_700 | Khasra No:</name><description>Detail: 2018-11-27_10:25:04
+empty plot</description><Point><coordinates>77.9022,29.836281</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_10:27:32</description><Point> <coordinates>77.902733,29.835866</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.902733,29.835866 77.902733,29.835866</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:brickroad401 | Khasra No:</name><description>Detail: 2018-11-27_10:29:29
+brick road 3m 6 electric poles on one side ward 15 peer baba colony </description><Point><coordinates>77.902733,29.835866</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_10:31:54</description><Point> <coordinates>77.904088,29.836311</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.904088,29.836311 77.904088,29.836311</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:marbleshop | Khasra No:</name><description>Detail: 2018-11-27_10:33:24
+dhyani marbles beside Uttaranchal iron workshops</description><Point><coordinates>77.904088,29.836311</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_10:34:07</description><Point> <coordinates>77.904403,29.836073</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.904403,29.836073 77.904403,29.836073</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:smallshop | Khasra No:</name><description>Detail: 2018-11-27_10:35:07
+Tyre air filling small shop</description><Point><coordinates>77.904403,29.836073</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_10:38:32</description><Point> <coordinates>77.905204,29.835168999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.905204,29.835168999999997 77.905204,29.835168999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:dhandera ward 15| F_Id:shop501 | Khasra No:</name><description>Detail: 2018-11-27_10:39:58
+maa shitla tiles shop, chauhan tiles and marbles, chaudhari iron and cement</description><Point><coordinates>77.905204,29.835169</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_10:42:12</description><Point> <coordinates>77.90554,29.834661999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90554,29.834661999999998 77.90554,29.834661999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:multipleshops | Khasra No:</name><description>Detail: 2018-11-27_10:45:21
+aman steel furniture,irfan welder, super electric sewage and sanatory store, malik e riksha, bharat welding workshop, israr tea stall, malian fabrication, construction site</description><Point><coordinates>77.90554,29.834662</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_14:08:18</description><Point> <coordinates>77.90031499999999,29.840222999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90031499999999,29.840222999999998 77.90031499999999,29.840222999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:rdshop1 | Khasra No:</name><description>Detail: 2018-11-27_14:10:08
+first kirana store on street side, krishna medical store, super furniture store, hotel, krishna medical store, gautam medical store</description><Point><coordinates>77.900315,29.840223</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_14:11:19</description><Point> <coordinates>77.900207,29.84009</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.900207,29.84009 77.900207,29.84009</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:lol | Khasra No:</name><description>Detail: 2018-11-27_14:11:54
+</description><Point><coordinates>77.900207,29.84009</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_14:12:25</description><Point> <coordinates>77.900184,29.840329999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.900184,29.840329999999998 77.900184,29.840329999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:rdshop2 | Khasra No:</name><description>Detail: 2018-11-27_14:13:03
+janta confectionary and general store</description><Point><coordinates>77.900184,29.84033</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_14:13:28</description><Point> <coordinates>77.899997,29.840235999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.899997,29.840235999999997 77.899997,29.840235999999997</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id: | Khasra No:</name><description>Detail: 2018-11-27_14:14:30
+Rao medicore, dhandera mega mart, Younus tours and travels</description><Point><coordinates>77.899997,29.840236</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_14:16:58</description><Point> <coordinates>77.899515,29.840170999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-27_14:24:44</description><Point> <coordinates>77.900196,29.840394</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-27_14:25:10</description><Point> <coordinates>77.899946,29.840176</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.900196,29.840394 77.899946,29.840176 77.900196,29.840394</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:street01 | Khasra No:</name><description>Detail: 2018-11-27_14:26:03
+concrete road, drain on sides, width : 3.3m</description><Point><coordinates>77.900196,29.840394</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_14:28:19</description><Point> <coordinates>77.90014599999999,29.840389</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90014599999999,29.840389 77.90014599999999,29.840389</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:rdshop3 | Khasra No:</name><description>Detail: 2018-11-27_14:29:23
+shaihaba furniture on Street side, sapna hardware + fancy fabricators, bharatiya jan aushdhi kendra</description><Point><coordinates>77.900146,29.840389</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_14:31:55</description><Point> <coordinates>77.900071,29.840577</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-27_14:32:00</description><Point> <coordinates>77.899861,29.840384999999998</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.900071,29.840577 77.899861,29.840384999999998 77.900071,29.840577</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:street2 | Khasra No:</name><description>Detail: 2018-11-27_14:33:39
+concrete material 2.76m, 2 houses on left one on right</description><Point><coordinates>77.900071,29.840577</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_14:34:08</description><Point> <coordinates>77.90001199999999,29.84056</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.90001199999999,29.84056 77.90001199999999,29.84056</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:rdshop4 | Khasra No:</name><description>Detail: 2018-11-27_14:35:03
+rashi medical store, fine railing shutter, </description><Point><coordinates>77.900012,29.84056</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_14:36:49</description><Point> <coordinates>77.899875,29.840746</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.899875,29.840746 77.899875,29.840746</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:rdshop5 | Khasra No:</name><description>Detail: 2018-11-27_14:38:06
+rana auto center, tabrej auto center, sharma provision shop-kirana shop, open land plot</description><Point><coordinates>77.899875,29.840746</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_14:43:21</description><Point> <coordinates>77.89980299999999,29.840785999999998</coordinates> </Point> </Placemark> 
+<Placemark><description>2018-11-27_14:43:38</description><Point> <coordinates>77.898909,29.839820999999997</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.89980299999999,29.840785999999998 77.898909,29.839820999999997 77.89980299999999,29.840785999999998</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:street3 | Khasra No:</name><description>Detail: 2018-11-27_14:47:36
+concrete road, width: 11m, 6 electric poles</description><Point><coordinates>77.899803,29.840786</coordinates></Point></Placemark>
+<Placemark><description>2018-11-27_14:49:15</description><Point> <coordinates>77.899525,29.840286</coordinates> </Point> </Placemark> 
+<Placemark><styleUrl>#rks</styleUrl><LineString><coordinates> 77.899525,29.840286 77.899525,29.840286</coordinates></LineString></Placemark>
+<Placemark><name> Village:| F_Id:streetshop | Khasra No:</name><description>Detail: 2018-11-27_14:51:00
+uday dairy, yash general and stationary, friends hair salon, aayush medical store</description><Point><coordinates>77.899525,29.840286</coordinates></Point></Placemark>
+</Document></kml>
